@@ -20,3 +20,6 @@ DEVICE_PACKAGE_OVERLAYS += device/google/gs201/overlay-crooked
 # EUICC
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
+
+# Touch
+include hardware/google/pixel/touch/device.mk
