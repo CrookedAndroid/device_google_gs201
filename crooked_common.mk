@@ -14,6 +14,9 @@
 # limitations under the License.
 #
 
+# Overlays
+DEVICE_PACKAGE_OVERLAYS += device/google/gs201/overlay-crooked
+
 # EUICC
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
