@@ -23,3 +23,7 @@ PRODUCT_PACKAGES += \
 
 # Touch
 include hardware/google/pixel/touch/device.mk
+
+
+# Properties
+TARGET_VENDOR_PROP := device/google/gs201/vendor.prop
