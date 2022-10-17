@@ -20,3 +20,6 @@ DEVICE_PACKAGE_OVERLAYS += device/google/gs201/overlay-crooked
 # EUICC
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
+
+# Properties
+TARGET_VENDOR_PROP := device/google/gs201/vendor.prop
