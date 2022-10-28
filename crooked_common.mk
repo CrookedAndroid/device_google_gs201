@@ -23,3 +23,6 @@ PRODUCT_PACKAGES += \
 
 # Properties
 TARGET_VENDOR_PROP := device/google/gs201/vendor.prop
+
+# ConnectivityThermalPowermanager
+include hardware/google/pixel/connectivity_thermal_power_manager/connectivity_thermal_power_manager.mk
